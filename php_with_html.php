@@ -24,7 +24,7 @@
 <!-- add some style with php -->
 
 <?php
-    $h2_color = "red";
+    $h2_color = "purple";
 ?>
 
 <h1 style="color:<?php echo  $h2_color = "red"?>">
